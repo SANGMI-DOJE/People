@@ -7,10 +7,10 @@
 
 ## Web
 
-| 이름 | 기수 | 재직상태 | 스킬셋 | 회사 |
+| 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
 | :--: | :--: | :--: | :--: | :--: |
-| [이지민](https://github.com/Samdasoo1076) | 6th | 재직중 | Java, Spring MVC, Node.JS, JS/ES6, MariaDB, MySQL, OracleDB  | 유컴패니온 |
-| [이동인](https://github.com/Ldi569321) | 6th | 재직중 | C++, Javascript | 에스티이지 |
+| [이지민](https://github.com/Samdasoo1076) | 6th | 재직중 | Java, Spring MVC, Node.JS, JS/ES6, MariaDB, MySQL, OracleDB  | 토스 |
+| [이동인](https://github.com/Ldi569321) | 6th | 재직중 | C++, Javascript | 없음 |
 | [테스트](https://github.com/a1p4ca) | 16th | 재학중 | Node.js, Python, Scala, Vue.js |
 | [테스트](https://github.com/IkwhanChang) | 2nd | [Urhyme](https://www.urhy.me) 재직중 | Java, Scala, JS/ES6, RDBMS(MySQL/OracleDB/Postgre), AngularJS/ReactJS on Node.js, Webpack, Spring MVC w/Velocity+Hibernate, Play! with Slick, Scala Akka (portfolio: www.matthewlab.com) |
 
@@ -34,7 +34,7 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| [테스트](https://github.com/shimika) | 9th | 재직중 | C# |
+| [김도훈]https://github.com/dohoon0998 | 7th | 재학중 | C++, C | 애플 |
 
 ---
 
