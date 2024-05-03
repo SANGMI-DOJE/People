@@ -15,7 +15,7 @@
 
 ```md
 - title에는 Ex. Web, Game, Android 등 해당하는 분야 탭을 작성해주시기 바랍니다.
-- Ex.| 이름[https://github.com/자신의 깃허브명] | 기수 | 재직상태 | 스킬셋 Ex. Node.js, Python, Scala, Vue.js | 회사명 |
+- Ex.| 이름[https://github.com/자신의 깃허브명] | 기수 | 재직상태 | 스킬셋 | 회사명 |
 - 재직 상태는 `재직중`, `구직중` 혹은 공란(재학생)으로 작성해 주세요
 ```
 
