@@ -9,10 +9,10 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 | 회사 |
 | :--: | :--: | :--: | :--: | :--: |
-| [이지민](https://github.com/Samdasoo1076) | 6th | 재직중 | Python, Node.JS, React | 유컴패니온 |
-| [이동인](https://github.com/Ldi569321) | 7th | 재직중 | C++, Javascript | 에스티이지 |
-| [박성민](https://github.com/a1p4ca) | 16th | 재학중 | Node.js, Python, Scala, Vue.js |
-| [장익환](https://github.com/IkwhanChang) | 2nd | [Urhyme](https://www.urhy.me) 재직중 | Java, Scala, JS/ES6, RDBMS(MySQL/OracleDB/Postgre), AngularJS/ReactJS on Node.js, Webpack, Spring MVC w/Velocity+Hibernate, Play! with Slick, Scala Akka (portfolio: www.matthewlab.com) |
+| [이지민](https://github.com/Samdasoo1076) | 6th | 재직중 | Java, Spring MVC, Node.JS, JS/ES6, MariaDB, MySQL, OracleDB  | 유컴패니온 |
+| [이동인](https://github.com/Ldi569321) | 6th | 재직중 | C++, Javascript | 에스티이지 |
+| [테스트](https://github.com/a1p4ca) | 16th | 재학중 | Node.js, Python, Scala, Vue.js |
+| [테스트](https://github.com/IkwhanChang) | 2nd | [Urhyme](https://www.urhy.me) 재직중 | Java, Scala, JS/ES6, RDBMS(MySQL/OracleDB/Postgre), AngularJS/ReactJS on Node.js, Webpack, Spring MVC w/Velocity+Hibernate, Play! with Slick, Scala Akka (portfolio: www.matthewlab.com) |
 
 ---
 
@@ -20,9 +20,9 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| [박민수](https://github.com/Rinirihiriro) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
-| [박준철](https://github.com/pjc0247) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
-| [전우성](https://github.com/synchrok) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
+| [테스트](https://github.com/Rinirihiriro) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
+| [테스트](https://github.com/pjc0247) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
+| [테스트](https://github.com/synchrok) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
 
 ---
 
@@ -34,7 +34,7 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| [윤지훈](https://github.com/shimika) | 9th | 재직중 | C# |
+| [테스트](https://github.com/shimika) | 9th | 재직중 | C# |
 
 ---
 
@@ -42,7 +42,7 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| [정성민](https://github.com/JSpiner) | 11th | [카카오모빌리티](https://kakaomobility.com/) 재직중 | Java, Kotlin |
+| [테스트](https://github.com/JSpiner) | 11th | [카카오모빌리티](https://kakaomobility.com/) 재직중 | Java, Kotlin |
 
 ---
 
@@ -50,7 +50,7 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| [문현균](https://github.com/hyeongyun0916) | 9th | 재학중 | object-c, swift |
+| [테스트](https://github.com/hyeongyun0916) | 9th | 재학중 | object-c, swift |
 
 ---
 
@@ -58,7 +58,7 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| [신은섭](https://github.com/kairos03) | 11th | [KIST-Europe](http://www.kist-europe.de) 재직중 | Python, C++, Java |
+| [테스트](https://github.com/kairos03) | 11th | [KIST-Europe](http://www.kist-europe.de) 재직중 | Python, C++, Java |
 
 ---
 
@@ -66,7 +66,7 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| [홍성재](https://github.com/gtw04) | 11th | 재학중 | C++ |
+| [테스트](https://github.com/gtw04) | 11th | 재학중 | C++ |
 
 ---
 
@@ -74,4 +74,4 @@
 
 | 이름 | 기수 | 소속 | 스킬셋 |
 | :--: | :--: | :--: | :--: |
-| [허재석](https://github.com/iriszero) | 11th | [Hanyang University](http://cs.hanyang.ac.kr) | C/C++, Python | 
+| [테스트](https://github.com/iriszero) | 11th | [Hanyang University](http://cs.hanyang.ac.kr) | C/C++, Python | 
