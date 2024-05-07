@@ -40,38 +40,38 @@
 
 ## Android
 
-| 이름 | 기수 | 재직상태 | 스킬셋 |
-| :--: | :--: | :--: | :--: |
+| 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
+| :--: | :--: | :--: | :--: | :--: |
 | [테스트](https://github.com/JSpiner) | 11th | [카카오모빌리티](https://kakaomobility.com/) 재직중 | Java, Kotlin |
 
 ---
 
 ## iOS
 
-| 이름 | 기수 | 재직상태 | 스킬셋 |
-| :--: | :--: | :--: | :--: |
+| 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
+| :--: | :--: | :--: | :--: | :--: |
 | [테스트](https://github.com/hyeongyun0916) | 9th | 재학중 | object-c, swift |
 
 ---
 
 ## AI
 
-| 이름 | 기수 | 재직상태 | 스킬셋 |
-| :--: | :--: | :--: | :--: |
+| 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
+| :--: | :--: | :--: | :--: | :--: |
 | [테스트](https://github.com/kairos03) | 11th | [KIST-Europe](http://www.kist-europe.de) 재직중 | Python, C++, Java |
 
 ---
 
 ## Topographic analysis
 
-| 이름 | 기수 | 재직상태 | 스킬셋 |
-| :--: | :--: | :--: | :--: |
+| 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
+| :--: | :--: | :--: | :--: | :--: |
 | [테스트](https://github.com/gtw04) | 11th | 재학중 | C++ |
 
 ---
 
 ## Research
 
-| 이름 | 기수 | 소속 | 스킬셋 |
-| :--: | :--: | :--: | :--: |
+| 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
+| :--: | :--: | :--: | :--: | :--: |
 | [테스트](https://github.com/iriszero) | 11th | [Hanyang University](http://cs.hanyang.ac.kr) | C/C++, Python | 
