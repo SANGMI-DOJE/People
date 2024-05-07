@@ -2,7 +2,6 @@
 
 <br><br>
 <img src="img/step1.png" width="600">
-<img src="img/step0001.png" width="600">
 
 - Issues 탭을 클릭해 해당 페이지로 들어갑니다.
   <br><br><br><br><br>
