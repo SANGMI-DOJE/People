@@ -2,7 +2,7 @@
 상일미디어고등학교 도제학교 재직자/졸업자 Github목록
 
 * [인원 추가하는법](how_to_add.md)
-
+* 2024년도 졸업자 기준 도제 6기
 ---
 
 ## Web
@@ -20,14 +20,16 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
 | :--: | :--: | :--: | :--: | :--: |
-|  [황선호](https://github.com/levocation) | 6th | 재직중 | C++, UE5, JAVA, Kotlin, [Skriptlang](https://github.com/SkriptLang/Skript) | 공백 |
+| [황선호](https://github.com/levocation) | 6th | 재직중 | C++, UE5, JAVA, Kotlin, [Skriptlang](https://github.com/SkriptLang/Skript) | 공백 |
 | [테스트](https://github.com/pjc0247) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
 | [테스트](https://github.com/synchrok) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
 
 ---
 
 ## Security
-
+| 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
+| :--: | :--: | :--: | :--: | :--: |
+| [우다원](https://github.com/woodawon) | 7th | 재직중 | Java, C, Python | OpenAI |
 ---
 
 ## Windows
