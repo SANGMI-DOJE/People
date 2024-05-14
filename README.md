@@ -11,7 +11,7 @@
 | :--: | :--: | :--: | :--: | :--: |
 | [이지민](https://github.com/Samdasoo1076) | 6th | 재직중 | Java, Spring MVC, Node.JS, JS/ES6, MariaDB, MySQL, OracleDB  | 토스 |
 | [이동인](https://github.com/Ldi569321) | 6th | 재직중 | C++, Javascript | 없음 |
-| [테스트](https://github.com/a1p4ca) | 16th | 재학중 | Node.js, Python, Scala, Vue.js |
+| [김혜영](https://github.com/khy0409) | 7th | 재직중 | Java, JSP, C| 없음 |
 | [테스트](https://github.com/IkwhanChang) | 2nd | [Urhyme](https://www.urhy.me) 재직중 | Java, Scala, JS/ES6, RDBMS(MySQL/OracleDB/Postgre) |
 
 ---
