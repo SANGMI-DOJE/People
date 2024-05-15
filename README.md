@@ -21,7 +21,7 @@
 | 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
 | :--: | :--: | :--: | :--: | :--: |
 | [황선호](https://github.com/levocation) | 6th | 재직중 | C++, UE5, JAVA, Kotlin, [Skriptlang](https://github.com/SkriptLang/Skript) | 공백 |
-| [테스트](https://github.com/pjc0247) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
+| [조종찬](https://github.com/100-danong) | 7th| 재직중| java, jap, c++| KX Nexg |
 | [테스트](https://github.com/synchrok) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
 
 ---
