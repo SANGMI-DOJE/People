@@ -60,7 +60,7 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
 | :--: | :--: | :--: | :--: | :--: |
-| [김신혁](https://github.com/Crswd38) | 6th | 재직중 | Python, Java, C, Java | X |
+| [김신혁](https://github.com/Crswd38) | 6th | 재직중 | Python, C, Java | X |
 
 ---
 
