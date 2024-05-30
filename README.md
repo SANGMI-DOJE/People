@@ -12,7 +12,6 @@
 | [이지민](https://github.com/Samdasoo1076) | 6th | 재직중 | Java, Spring MVC, Node.JS, JS/ES6, MariaDB, MySQL, OracleDB  | 토스 |
 | [이동인](https://github.com/Ldi569321) | 6th | 재직중 | Java, Javascript, css | 없음 |
 | [김혜영](https://github.com/khy0409) | 7th | 재직중 | Java, JSP, C| 없음 |
-| [테스트](https://github.com/IkwhanChang) | 2nd | [Urhyme](https://www.urhy.me) 재직중 | Java, Scala, JS/ES6, RDBMS(MySQL/OracleDB/Postgre) |
 
 ---
 
@@ -22,7 +21,6 @@
 | :--: | :--: | :--: | :--: | :--: |
 | [황선호](https://github.com/levocation) | 6th | 재직중 | C++, UE5, JAVA, Kotlin, [Skriptlang](https://github.com/SkriptLang/Skript) | 공백 |
 | [조종찬](https://github.com/100-danong) | 7th| 재직중| java, jsp, c++| KX Nexg |
-| [테스트](https://github.com/synchrok) | 10th | 재직중 | C++, C#, Unity, cocos2d-x |
 
 ---
 
