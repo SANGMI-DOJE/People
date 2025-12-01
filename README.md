@@ -9,7 +9,7 @@
 
 | 이름 | 기수 | 재직상태 | 스킬셋 | 희망회사 |
 | :--: | :--: | :--: | :--: | :--: |
-| [이지민](https://github.com/Samdasoo1076) | 6th | 재직중 | Java, Spring MVC, Node.JS, JS/ES6, MariaDB, MySQL, OracleDB  | 토스 |
+| [이지민](https://github.com/Samdasoo1076) | 6th | 재직중 | Java, Spring MVC, JS/ES6, MySQL, OracleDB  | 토스 |
 | [이동인](https://github.com/Ldi569321) | 6th | 재직중 | Java, Javascript, css | 없음 |
 | [김혜영](https://github.com/khy0409) | 7th | 재직중 | Java, JSP, C| 없음 |
 
